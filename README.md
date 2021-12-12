@@ -1,6 +1,6 @@
 ### 👨👩 Glad to see you here! &nbsp;
 
-I'm a Full-Stack developer, Blockchain Enthusiast who loves to work with JavaScript/Typescript, Web3, Solidity, Blockchain (Ethereum, Binance Smart Chain, Polygon, Avalanche, Solana). Since 2019, I began proactively working on blockchain related projects as a Blockchain Software Engineer.
+I'm a Full-Stack & Blockchain developer, Blockchain Enthusiast who loves to work with JavaScript/Typescript, Web3, Solidity, Blockchain (Ethereum, Binance Smart Chain, Polygon, Avalanche, Solana). Since 2019, I began proactively working on blockchain related projects as a Blockchain Software Engineer.
 
 Nowadays, I'm mainly focused on working with any kind of NFT Minting, NFT Marketplace, DeFi Platform Development and have significant experience in bridge development between multi blockchain networks.
 
