@@ -108,7 +108,7 @@ Nowadays, I'm mainly focused on working with any kind of NFT Minting, NFT Market
   </tbody>
 </table>
 
-📈 **My GitHub Stats(2021):**
+📈 **My GitHub Stats(2022):**
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=figaro27&theme=tokyonight&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
