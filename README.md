@@ -12,10 +12,10 @@ Nowadays, I'm mainly focused on working with any kind of NFT Minting, NFT Market
       <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_pancake.png?raw=true" width="200"></td>
       <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_solidity.png?raw=true" width="200"></td>
       <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_truffle.png?raw=true" width="200"></td>
-      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_metamask.png?raw=true" width="200"></td>
       <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_bitcoin.png?raw=true" width="200"></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-128/javascript-1174950.png" width="200"></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-128/node-1174925.png" width="200"></td>
+      <td><img src="go.png" width="200"></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-128/react-1175109.png" width="200"></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-128/vue-282497.png" width="200"></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-64/angular-226066.png" width="200"></td>
@@ -34,7 +34,7 @@ Nowadays, I'm mainly focused on working with any kind of NFT Minting, NFT Market
             <td><a href="https://app.hunterdoge.com/">HunterDoge</a></td>
             <td><a href="https://aurum.dragoncrypto.io/">Dragon Crypto Gaming</a></td>
             <td><a href="https://pepemon.world/">Pepemon</a></td>           
-            <td><a href="https://dynamicswap.exchange/">Dynamic Swap</a></td>
+            <td><a href="https://don-key.finance/">Don-Key Finance</a></td>
         </tr>
     </thead>
     <tbody>
@@ -108,7 +108,7 @@ Nowadays, I'm mainly focused on working with any kind of NFT Minting, NFT Market
   </tbody>
 </table>
 
-📈 **My GitHub Stats(2021):**
+📈 **My GitHub Stats(2022):**
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=figaro27&theme=tokyonight&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
